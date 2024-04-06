@@ -31,9 +31,3 @@ python3 bourse.py
 - Make sure to input the name of the company correctly when buying or selling stocks.
 - Pay attention to market fluctuations, as they can impact your investment strategy.
 - This program was was written for educational purposes and is not intended for actual stock trading. It was written within strict python rules, therefore it is absolutely not optimized for performance.
-
-## Contributors
-
-- [Neev Chandiramani]
-
-Feel free to contribute to improving the program!
